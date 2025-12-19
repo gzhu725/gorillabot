@@ -1,0 +1,23 @@
+#all: 
+Hey @here We're going to send out the community newsletter Thursday and want to include stuff for folks hiring/looking to be hired.
+For folks that are looking for jobs please respond in this thread with:
+- Name
+- Location:
+- Open to Remote and or Relocate:
+- Technologies:
+- Link to Résumé/CV:
+- slackNY handle:
+For folks that are looking to hire or wanna help getting a referral bonus let us know with info about what the role.
+Let us know by EOD Thursday if you want to be included!
+
+#jobs: 
+Hey @here We're going to send out the community newsletter Thursday and want to include stuff for folks hiring/looking to be hired.
+For folks that are looking for jobs please respond in this thread with:
+- Name
+- Location:
+- Open to Remote and or Relocate:
+- Technologies:
+- Link to Résumé/CV:
+- slackNY handle:
+For folks that are looking to hire or wanna help getting a referral bonus let us know with info about what the role.
+Let us know by EOD Thursday if you want to be included!
